@@ -4,4 +4,4 @@
 
 ------------------------------------------------------------
 
-UPDATE: This was just an excuse to develop a Linux SBC, and it was completely scrapped over 2 years ago in favor of https://github.com/PuntoMaximo/VonVisionAI_hardware and https://github.com/PuntoMaximo/VonVisionAI_OS 
+UPDATE: This was just an excuse to develop a Linux SBC, and it was completely scrapped over 2 years ago in favor of the now complete: https://github.com/PuntoMaximo/VonVisionAI_hardware and https://github.com/PuntoMaximo/VonVisionAI_OS 
